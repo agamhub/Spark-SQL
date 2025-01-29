@@ -8,3 +8,11 @@
 - Install Pyspark [PySpark](https://spark.apache.org/downloads.html) in this case i am using latest version on 29/01/2025 > 3.5.4 and hadoop 3.3 and later
 - Python 3.13.1
 - Setup all above in Environment Variables both level user or system
+
+## Development Stack
+
+- Visual Sudio Code
+- Python 3.13.1 setup it in environment variables path > C:\Users\OWNER\AppData\Local\Programs\Python\ and C:\Users\OWNER\AppData\Local\Programs\Python\Scripts\ 
+- Enabling Environment by running in terminal or ctrl+shift+p then type env
+    ` Create env >>> python -m venv pyenv
+    ` Activate env >>> .\pyenv\Scripts\activate
