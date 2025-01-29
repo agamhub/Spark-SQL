@@ -8,6 +8,7 @@
 - Install Pyspark [PySpark](https://spark.apache.org/downloads.html) in this case i am using latest version on 29/01/2025 > 3.5.4 and hadoop 3.3 and later
 - Python 3.13.1
 - Setup all above in Environment Variables both level user or system
+- [Cdarlint](https://github.com/cdarlint/winutils) Hadoop.dll & Winutils.exe copy to C:/System32 for parquet only >> 3.2.2
 
 ## Development Stack
 
